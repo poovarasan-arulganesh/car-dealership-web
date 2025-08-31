@@ -73,9 +73,6 @@ right-click `index.html` → **Open with Live Server**.
 -   Update `style.css` for custom colors, fonts, and branding.\
 -   Edit `index.html` to change car names, prices, and descriptions.
 
-## 📸 Preview
-
-(Add a screenshot of your site here once hosted.)
 
 ## 📢 License
 
